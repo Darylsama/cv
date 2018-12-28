@@ -1,2 +1,2 @@
-# cv
-Personal CV Website
+# CV
+Personal Resume Website
